@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.env
+.history/
+.marscode/
+.vscode/
+node_modules/
+dist/
+build/
+.next/
+desktop.ini
